@@ -1,0 +1,2 @@
+set <vname> <value>
+setparam <what> <label> <pname> <value>

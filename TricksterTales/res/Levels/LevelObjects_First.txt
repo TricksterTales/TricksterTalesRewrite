@@ -1,0 +1,2 @@
+Door Spawn 0 1 Spawn
+Sign HelloWorld 1 1 "Hello there... this is cool"
